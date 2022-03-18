@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Volodymyr Boiko!
-## I’m a Front-end developer from Ukraine and looking for a new job.
+## I’m a *Front-end developer* from Ukraine and looking for a new job.
 
 ### 📫 Mail me: vovi4.vladzyo@gmail.com
 
